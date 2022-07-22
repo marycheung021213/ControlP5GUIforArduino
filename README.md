@@ -15,7 +15,7 @@ There are five functions in all, which are as follows.
 
 ## Five Functions
 ### Music File Load & Change
-Music File can be searched in this GUI, and be uploaded timely. You should put your music file in /data in advance, and you can change the default music file in setup()
+Music File can be searched in this GUI, and be uploaded timely. You should put your music file in /data in advance, and you can change the default music file in setup().
 
 ### ControlP5 Controllers
 I use controlp5 lib to create several controllers to control servo and led. Most of the controllers are set in function controller() run in setup().
