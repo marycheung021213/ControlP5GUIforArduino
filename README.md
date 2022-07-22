@@ -1,7 +1,7 @@
 # ControlP5GUIforArduino
 I mainly use controlp5 lib in Processing to create a GUI for Arduino.
 
-![remote_controller_draft2 2022_7_19 16_24_26](https://user-images.githubusercontent.com/106864918/180456204-2187df59-3ef9-46a0-b34a-3bc67df4f926.png)
+![Uploading processing_controller 2022_7_22 22_45_16.png…]()
 
 I have posted an interpretation video in Bilibili: https://www.bilibili.com/video/BV1yg411Z7ZT?share_source=copy_web&vd_source=b1841fff6f9f05dc7f41ca12db5f1de6
 
