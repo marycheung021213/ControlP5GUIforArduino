@@ -9,7 +9,7 @@ I have posted an interpretation video in Bilibili: https://www.bilibili.com/vide
 If you want to refer to my code, please make sure you have downloaded the necessary libs, and also have a /data folder, containing music files and img.jpg(which is a rainbow gradient picture in the size of (72,36))
 
 ## Communication between Arduino and Processing
-I use serial communication to achieve it and to make all tens of controllers can communicate with Arduino, I create a very simple protocol. Every message transmitted looks like this "XXXX123\n". To show which controller sends this message, it starts with a four-char-long code, and to show the end of every message, it ends with "\n". In the middle of every message, there are numbers with actual meaning, such as the speed, the degree, or the RGB color.
+I use serial communication to achieve. To make all tens of controllers can communicate with Arduino, I create a very simple protocol. Every message transmitted looks like this "XXXX123\n". To show which controller sends this message, it starts with a four-char-long code, and to show the end of every message, it ends with "\n". In the middle of every message, there are numbers with actual meaning, such as the speed, the degree, or the RGB color.
 
 There are five functions in all, which are as follows.
 
