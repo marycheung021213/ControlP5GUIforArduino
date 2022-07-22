@@ -1,5 +1,5 @@
 # ControlP5GUIforArduino
-I mainly use controlp5 lib in Processing to create a GUI for Arduino. This project is created for my internship in a lab, in which I am ought to code a GUI in processing.
+I mainly use controlp5 lib in Processing to create a GUI for Arduino.
 
 ![remote_controller_draft2 2022_7_19 16_24_26](https://user-images.githubusercontent.com/106864918/180456204-2187df59-3ef9-46a0-b34a-3bc67df4f926.png)
 
